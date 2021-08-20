@@ -4,7 +4,6 @@
 This project is just created for learning and personal preferences. In this project I have utilized the Microsoft Security Compliance Toolkit v1.0 to understand various benchmarks provided for Windows Hardening. I have mapped those benchmarks with associated MITRE ATT&CK Tactic that an adversary may be able to achieve. 
 
 ----
----
 This is a work in progress project (just made for fun and learning purposes!)
 ## Contributing
 
